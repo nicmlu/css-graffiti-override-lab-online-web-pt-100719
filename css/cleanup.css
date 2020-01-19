@@ -15,11 +15,11 @@
     display: none;
 }
 
-#wall #tag-5{
+#wall .parent #tag-5{
     display: none;
 }
 
-#wall #tag-6 {
+#wall .parent #tag-6 {
     display: none;
 }
 
