@@ -24,7 +24,5 @@
 }
 
 #wall > #tag-7 {
-    background: url(../images/tag-7.png) no-repeat;
-    z-index: 1;
     display: none;
 }
